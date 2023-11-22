@@ -27,6 +27,11 @@ body {
   background-repeat: repeat;
   background-size: 100% 100%, 30% 30%, 100% 100%;
   min-height: 110rem;
+  ;
+}
+#jogo{
+  color: red;
+
 }
 
 header {
@@ -182,8 +187,8 @@ ol {
   width: 8rem;
   height: 8rem;
   border: none;
-  background: #aca788;
-  color: #3f3b00;
+  background: #eceb89;
+  color: #000000;
   font-size: 5rem;
   cursor: pointer;
   font-family: 'Caprasimo', cursive;
@@ -208,7 +213,7 @@ ol {
   font-family: 'Caprasimo', cursive;
   font-size: 4rem;
   text-align: center;
-  color: #fcd256;
+  color: #fc0404;
   margin: 0;
 }
 
